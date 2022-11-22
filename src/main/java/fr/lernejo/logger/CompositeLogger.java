@@ -15,4 +15,3 @@ public class CompositeLogger implements Logger{
         log2.log(message);
     }
 }
-Footer
